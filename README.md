@@ -1,4 +1,4 @@
-# weair
+# WeAir
 WeAir - Remotely control your Android phone on your computer and do everything you want
 
 Support WiFi, 4G, 5G for connection [UDP P2P/Stun]
